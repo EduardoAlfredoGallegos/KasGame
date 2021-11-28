@@ -43,6 +43,16 @@
             "enumb": 0,
             "eventtype": 2,
             "m_owner": "cca01a46-2d22-4f49-80a5-f0b8ac6d014a"
+        },
+        {
+            "id": "24b6c161-4a8b-436a-b9b0-c5e2e4c18047",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": true,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 1,
+            "eventtype": 3,
+            "m_owner": "cca01a46-2d22-4f49-80a5-f0b8ac6d014a"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -77,20 +87,6 @@
             "varType": 1
         },
         {
-            "id": "cdbfa737-6391-4e23-8d63-ccc1531c1e78",
-            "modelName": "GMObjectProperty",
-            "mvc": "1.0",
-            "listItems": null,
-            "multiselect": false,
-            "rangeEnabled": false,
-            "rangeMax": 10,
-            "rangeMin": 0,
-            "resourceFilter": 1023,
-            "value": "150",
-            "varName": "aparicion",
-            "varType": 1
-        },
-        {
             "id": "33471cc3-250d-4adf-87b7-7334de5a6db0",
             "modelName": "GMObjectProperty",
             "mvc": "1.0",
@@ -116,6 +112,20 @@
             "resourceFilter": 1023,
             "value": "0",
             "varName": "enealea",
+            "varType": 1
+        },
+        {
+            "id": "610d6b46-6866-4f30-b442-25696f8f8cdf",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 150,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "150",
+            "varName": "aparicion",
             "varType": 1
         }
     ],

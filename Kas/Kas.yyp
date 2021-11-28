@@ -71,14 +71,6 @@
             }
         },
         {
-            "Key": "155273fd-2794-426e-a9e1-3515ee6e1539",
-            "Value": {
-                "id": "31850fae-aeae-4f52-a8ac-ad94a839ffc8",
-                "resourcePath": "sprites\\spr_player_atq_der\\spr_player_atq_der.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "1969c929-69ac-40df-a0e6-c63094bba7dc",
             "Value": {
                 "id": "d206ce17-ff99-4bb1-84f5-9b6d9f0202ad",
@@ -172,14 +164,6 @@
                 "id": "2f3fb4dc-15ac-409a-b5e6-a8eace4c21b5",
                 "resourcePath": "fonts\\font_SCORE\\font_SCORE.yy",
                 "resourceType": "GMFont"
-            }
-        },
-        {
-            "Key": "4eb7860a-77c6-4994-9071-6a30165cb6db",
-            "Value": {
-                "id": "38c100c4-746d-4333-9674-7817338ffc33",
-                "resourcePath": "sprites\\spr_player_atq_izq\\spr_player_atq_izq.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
@@ -292,6 +276,14 @@
                 "id": "ae5c70b7-58f6-449a-ad09-f88476f4e7fb",
                 "resourcePath": "options\\tvos\\options_tvos.yy",
                 "resourceType": "GMtvOSOptions"
+            }
+        },
+        {
+            "Key": "9f7fdf93-a3b1-4a3a-986c-6d4ba9958cb2",
+            "Value": {
+                "id": "bf395663-58ef-483c-833c-f726f941bf7a",
+                "resourcePath": "objects\\obj_player_attack\\obj_player_attack.yy",
+                "resourceType": "GMObject"
             }
         },
         {

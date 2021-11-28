@@ -5,8 +5,11 @@
 /// @DnDArgument : "x_relative" "1"
 x += -player_speed;
 
-/// @DnDAction : YoYo Games.Movement.Set_Direction_Fixed
-/// @DnDVersion : 1.1
-/// @DnDHash : 33DB7904
-speed = 0;
-direction = 0;
+/// @DnDAction : YoYo Games.Instances.Set_Sprite
+/// @DnDVersion : 1
+/// @DnDHash : 77232222
+/// @DnDArgument : "imageind_relative" "1"
+/// @DnDArgument : "spriteind" "kas_izquierda"
+/// @DnDSaveInfo : "spriteind" "ffbb9aa9-235c-4ade-9e4f-ec68efc43d3b"
+sprite_index = kas_izquierda;
+image_index += 0;
