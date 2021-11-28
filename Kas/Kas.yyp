@@ -207,17 +207,9 @@
             }
         },
         {
-            "Key": "699cbc80-e64f-4be7-8b4b-db18ee427982",
-            "Value": {
-                "id": "b075fc4b-3a81-4ef4-9095-b9d6a0ec6d3e",
-                "resourcePath": "sprites\\spr_disparo\\spr_disparo.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "7090cb2e-a847-4588-9173-46c28199c48b",
             "Value": {
-                "id": "5c1a6113-deb4-4c00-a77f-1b31408ff0f0",
+                "id": "47f8fbfc-fb62-4864-b956-7eb23a3ad88b",
                 "resourcePath": "objects\\obj_player\\obj_player.yy",
                 "resourceType": "GMObject"
             }
@@ -276,14 +268,6 @@
                 "id": "ae5c70b7-58f6-449a-ad09-f88476f4e7fb",
                 "resourcePath": "options\\tvos\\options_tvos.yy",
                 "resourceType": "GMtvOSOptions"
-            }
-        },
-        {
-            "Key": "9f7fdf93-a3b1-4a3a-986c-6d4ba9958cb2",
-            "Value": {
-                "id": "bf395663-58ef-483c-833c-f726f941bf7a",
-                "resourcePath": "objects\\obj_player_attack\\obj_player_attack.yy",
-                "resourceType": "GMObject"
             }
         },
         {

@@ -16,6 +16,14 @@ if(l14A236E5_0)
 	/// @DnDArgument : "max" "3"
 	aleatorio = floor(random_range(0, 3 + 1));
 
+	/// @DnDAction : YoYo Games.Random.Get_Random_Number
+	/// @DnDVersion : 1
+	/// @DnDHash : 480D5997
+	/// @DnDParent : 14A236E5
+	/// @DnDArgument : "var" "enealea"
+	/// @DnDArgument : "type" "1"
+	enealea = floor(random_range(0, 1 + 1));
+
 	/// @DnDAction : YoYo Games.Common.If_Variable
 	/// @DnDVersion : 1
 	/// @DnDHash : 600277D1
@@ -57,14 +65,6 @@ if(l14A236E5_0)
 		/// @DnDParent : 600277D1
 		else
 		{
-			/// @DnDAction : YoYo Games.Random.Get_Random_Number
-			/// @DnDVersion : 1
-			/// @DnDHash : 480D5997
-			/// @DnDParent : 79716580
-			/// @DnDArgument : "var" "enealea"
-			/// @DnDArgument : "type" "1"
-			enealea = floor(random_range(0, 1 + 1));
-		
 			/// @DnDAction : YoYo Games.Common.If_Variable
 			/// @DnDVersion : 1
 			/// @DnDHash : 2B6514BE
@@ -162,14 +162,6 @@ if(l14A236E5_0)
 		/// @DnDParent : 33178AB3
 		else
 		{
-			/// @DnDAction : YoYo Games.Random.Get_Random_Number
-			/// @DnDVersion : 1
-			/// @DnDHash : 12740B18
-			/// @DnDParent : 015A7E22
-			/// @DnDArgument : "var" "enealea"
-			/// @DnDArgument : "type" "1"
-			enealea = floor(random_range(0, 1 + 1));
-		
 			/// @DnDAction : YoYo Games.Common.If_Variable
 			/// @DnDVersion : 1
 			/// @DnDHash : 7DFF64CF
@@ -267,14 +259,6 @@ if(l14A236E5_0)
 		/// @DnDParent : 0BF31B8C
 		else
 		{
-			/// @DnDAction : YoYo Games.Random.Get_Random_Number
-			/// @DnDVersion : 1
-			/// @DnDHash : 5D0C3A79
-			/// @DnDParent : 584D72C1
-			/// @DnDArgument : "var" "enealea"
-			/// @DnDArgument : "type" "1"
-			enealea = floor(random_range(0, 1 + 1));
-		
 			/// @DnDAction : YoYo Games.Common.If_Variable
 			/// @DnDVersion : 1
 			/// @DnDHash : 4B4F0EA0
@@ -372,14 +356,6 @@ if(l14A236E5_0)
 		/// @DnDParent : 7B158590
 		else
 		{
-			/// @DnDAction : YoYo Games.Random.Get_Random_Number
-			/// @DnDVersion : 1
-			/// @DnDHash : 6D996084
-			/// @DnDParent : 4D452F13
-			/// @DnDArgument : "var" "enealea"
-			/// @DnDArgument : "type" "1"
-			enealea = floor(random_range(0, 1 + 1));
-		
 			/// @DnDAction : YoYo Games.Common.If_Variable
 			/// @DnDVersion : 1
 			/// @DnDHash : 735E3A0D

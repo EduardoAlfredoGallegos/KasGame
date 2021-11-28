@@ -75,16 +75,6 @@
             "m_owner": "7090cb2e-a847-4588-9173-46c28199c48b"
         },
         {
-            "id": "497a17cd-922a-48d3-880d-4c9e53f790bf",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": true,
-            "collisionObjectId": "d84f6ff7-edf0-46ea-97ac-4545315219fe",
-            "enumb": 0,
-            "eventtype": 4,
-            "m_owner": "7090cb2e-a847-4588-9173-46c28199c48b"
-        },
-        {
             "id": "64664171-7895-446b-8474-fdd761054722",
             "modelName": "GMEvent",
             "mvc": "1.0",
@@ -143,6 +133,26 @@
             "enumb": 0,
             "eventtype": 3,
             "m_owner": "7090cb2e-a847-4588-9173-46c28199c48b"
+        },
+        {
+            "id": "0f50f006-7f5a-4101-a2a8-afe8f15442dc",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": true,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 2,
+            "eventtype": 2,
+            "m_owner": "7090cb2e-a847-4588-9173-46c28199c48b"
+        },
+        {
+            "id": "0c85da86-7b68-4bab-9b69-34f45758be2b",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": true,
+            "collisionObjectId": "d84f6ff7-edf0-46ea-97ac-4545315219fe",
+            "enumb": 0,
+            "eventtype": 4,
+            "m_owner": "7090cb2e-a847-4588-9173-46c28199c48b"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -172,7 +182,7 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "False",
+            "value": "True",
             "varName": "no_slash",
             "varType": 3
         },
@@ -203,6 +213,20 @@
             "value": "10",
             "varName": "player_speed",
             "varType": 1
+        },
+        {
+            "id": "68560c2b-3658-4330-8208-4a099f184783",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "False",
+            "varName": "attack",
+            "varType": 3
         }
     ],
     "solid": true,

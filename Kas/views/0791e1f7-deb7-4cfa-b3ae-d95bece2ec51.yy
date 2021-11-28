@@ -12,8 +12,8 @@
         "a4f514eb-e6cd-4734-935c-e1fc9e36faf7",
         "cca01a46-2d22-4f49-80a5-f0b8ac6d014a",
         "129ae7ff-277e-4a78-a25a-5a51d1ebc956",
-        "7090cb2e-a847-4588-9173-46c28199c48b",
-        "9f7fdf93-a3b1-4a3a-986c-6d4ba9958cb2"
+        "0b9021d5-44e4-48b1-b70d-24284b427392",
+        "7090cb2e-a847-4588-9173-46c28199c48b"
     ],
     "filterType": "GMObject",
     "folderName": "Mundo",
