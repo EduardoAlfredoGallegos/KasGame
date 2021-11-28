@@ -20,9 +20,9 @@ if(enealea == 0)
 	/// @DnDVersion : 1
 	/// @DnDHash : 789B2C2D
 	/// @DnDParent : 09648C21
-	/// @DnDArgument : "spriteind" "spr_mouse"
-	/// @DnDSaveInfo : "spriteind" "3cf128a1-ab0e-4dee-8937-02e982b7d13c"
-	sprite_index = spr_mouse;
+	/// @DnDArgument : "spriteind" "spr_tentacles"
+	/// @DnDSaveInfo : "spriteind" "3ed5ebff-9aeb-4b45-b95d-3f4fd73ecbf4"
+	sprite_index = spr_tentacles;
 	image_index = 0;
 }
 
