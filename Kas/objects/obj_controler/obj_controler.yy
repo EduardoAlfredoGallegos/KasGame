@@ -77,20 +77,6 @@
             "varType": 1
         },
         {
-            "id": "cdbfa737-6391-4e23-8d63-ccc1531c1e78",
-            "modelName": "GMObjectProperty",
-            "mvc": "1.0",
-            "listItems": null,
-            "multiselect": false,
-            "rangeEnabled": false,
-            "rangeMax": 10,
-            "rangeMin": 0,
-            "resourceFilter": 1023,
-            "value": "150",
-            "varName": "aparicion",
-            "varType": 1
-        },
-        {
             "id": "33471cc3-250d-4adf-87b7-7334de5a6db0",
             "modelName": "GMObjectProperty",
             "mvc": "1.0",
@@ -116,6 +102,20 @@
             "resourceFilter": 1023,
             "value": "0",
             "varName": "enealea",
+            "varType": 1
+        },
+        {
+            "id": "610d6b46-6866-4f30-b442-25696f8f8cdf",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 150,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "150",
+            "varName": "aparicion",
             "varType": 1
         }
     ],

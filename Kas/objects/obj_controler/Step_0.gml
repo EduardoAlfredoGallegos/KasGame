@@ -23,23 +23,15 @@ if(__dnd_lives <= 0)
 
 /// @DnDAction : YoYo Games.Instance Variables.If_Score
 /// @DnDVersion : 1
-/// @DnDHash : 5D6393E5
+/// @DnDHash : 0D8D882E
 /// @DnDArgument : "value" "5"
 if(!variable_instance_exists(id, "__dnd_score")) __dnd_score = 0;
 if(__dnd_score == 5)
 {
 	/// @DnDAction : YoYo Games.Common.Variable
 	/// @DnDVersion : 1
-	/// @DnDHash : 5CBD4095
-	/// @DnDParent : 5D6393E5
-	/// @DnDArgument : "expr" "100"
-	/// @DnDArgument : "var" "aparicion"
-	aparicion = 100;
-
-	/// @DnDAction : YoYo Games.Common.Variable
-	/// @DnDVersion : 1
-	/// @DnDHash : 41EA1231
-	/// @DnDParent : 5D6393E5
+	/// @DnDHash : 74232A4B
+	/// @DnDParent : 0D8D882E
 	/// @DnDArgument : "expr" "false"
 	/// @DnDArgument : "var" "facil"
 	facil = false;
@@ -47,32 +39,48 @@ if(__dnd_score == 5)
 
 /// @DnDAction : YoYo Games.Instance Variables.If_Score
 /// @DnDVersion : 1
-/// @DnDHash : 6953B309
+/// @DnDHash : 79C93563
 /// @DnDArgument : "value" "10"
 if(!variable_instance_exists(id, "__dnd_score")) __dnd_score = 0;
 if(__dnd_score == 10)
 {
 	/// @DnDAction : YoYo Games.Common.Variable
 	/// @DnDVersion : 1
-	/// @DnDHash : 0681D401
-	/// @DnDParent : 6953B309
-	/// @DnDArgument : "expr" "70"
+	/// @DnDHash : 179437D6
+	/// @DnDParent : 79C93563
+	/// @DnDArgument : "expr" "100"
 	/// @DnDArgument : "var" "aparicion"
-	aparicion = 70;
+	aparicion = 100;
 }
 
 /// @DnDAction : YoYo Games.Instance Variables.If_Score
 /// @DnDVersion : 1
-/// @DnDHash : 068998BE
-/// @DnDArgument : "value" "20"
+/// @DnDHash : 535E39E1
+/// @DnDArgument : "value" "15"
 if(!variable_instance_exists(id, "__dnd_score")) __dnd_score = 0;
-if(__dnd_score == 20)
+if(__dnd_score == 15)
 {
 	/// @DnDAction : YoYo Games.Common.Variable
 	/// @DnDVersion : 1
-	/// @DnDHash : 2775DD5B
-	/// @DnDParent : 068998BE
-	/// @DnDArgument : "expr" "40"
+	/// @DnDHash : 1980172B
+	/// @DnDParent : 535E39E1
+	/// @DnDArgument : "expr" "50"
 	/// @DnDArgument : "var" "aparicion"
-	aparicion = 40;
+	aparicion = 50;
+}
+
+/// @DnDAction : YoYo Games.Instance Variables.If_Score
+/// @DnDVersion : 1
+/// @DnDHash : 365D9CAF
+/// @DnDArgument : "value" "25"
+if(!variable_instance_exists(id, "__dnd_score")) __dnd_score = 0;
+if(__dnd_score == 25)
+{
+	/// @DnDAction : YoYo Games.Common.Variable
+	/// @DnDVersion : 1
+	/// @DnDHash : 22EE7DBC
+	/// @DnDParent : 365D9CAF
+	/// @DnDArgument : "expr" "10"
+	/// @DnDArgument : "var" "aparicion"
+	aparicion = 10;
 }
