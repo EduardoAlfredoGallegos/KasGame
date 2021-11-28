@@ -151,6 +151,14 @@
             }
         },
         {
+            "Key": "3ed5ebff-9aeb-4b45-b95d-3f4fd73ecbf4",
+            "Value": {
+                "id": "2d101aa4-4c8d-4740-abe2-e1f043eead76",
+                "resourcePath": "sprites\\spr_tentacles\\spr_tentacles.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "406ac680-690f-4a07-8f71-c9c2c336b921",
             "Value": {
                 "id": "557f86d1-907e-48b0-afa4-fe4d703b32e9",
