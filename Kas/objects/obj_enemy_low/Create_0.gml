@@ -35,8 +35,8 @@ else
 	/// @DnDVersion : 1
 	/// @DnDHash : 3641D572
 	/// @DnDParent : 1FE2F453
-	/// @DnDArgument : "spriteind" "spr_bee"
-	/// @DnDSaveInfo : "spriteind" "bef25949-b33d-47af-98f8-417660eb658e"
-	sprite_index = spr_bee;
+	/// @DnDArgument : "spriteind" "spr_espantapajaros"
+	/// @DnDSaveInfo : "spriteind" "e360ca57-d03b-4767-9788-83593266eef6"
+	sprite_index = spr_espantapajaros;
 	image_index = 0;
 }

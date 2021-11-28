@@ -439,6 +439,14 @@
             }
         },
         {
+            "Key": "e360ca57-d03b-4767-9788-83593266eef6",
+            "Value": {
+                "id": "3a43982d-cc64-48b2-9084-2369ca572ba5",
+                "resourcePath": "sprites\\spr_espantapajaros\\spr_espantapajaros.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "e42bf5cc-3f46-4d67-a6d0-a4885a11ac3f",
             "Value": {
                 "id": "5d0007d4-b8d5-42ec-8878-bc9d6d61b1b9",
