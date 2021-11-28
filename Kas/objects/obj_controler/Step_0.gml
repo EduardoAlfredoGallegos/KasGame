@@ -20,3 +20,55 @@ if(__dnd_lives <= 0)
 	/// @DnDParent : 6E1702FA
 	with(obj_player) instance_destroy();
 }
+
+/// @DnDAction : YoYo Games.Instance Variables.If_Score
+/// @DnDVersion : 1
+/// @DnDHash : 0D8D882E
+/// @DnDArgument : "op" "4"
+/// @DnDArgument : "value" "5"
+if(!variable_instance_exists(id, "__dnd_score")) __dnd_score = 0;
+if(__dnd_score >= 5)
+{
+	/// @DnDAction : YoYo Games.Common.Variable
+	/// @DnDVersion : 1
+	/// @DnDHash : 74232A4B
+	/// @DnDParent : 0D8D882E
+	/// @DnDArgument : "expr" "false"
+	/// @DnDArgument : "var" "facil"
+	facil = false;
+
+	/// @DnDAction : YoYo Games.Instance Variables.If_Score
+	/// @DnDVersion : 1
+	/// @DnDHash : 79C93563
+	/// @DnDParent : 0D8D882E
+	/// @DnDArgument : "op" "4"
+	/// @DnDArgument : "value" "10"
+	if(!variable_instance_exists(id, "__dnd_score")) __dnd_score = 0;
+	if(__dnd_score >= 10)
+	{
+		/// @DnDAction : YoYo Games.Common.Variable
+		/// @DnDVersion : 1
+		/// @DnDHash : 179437D6
+		/// @DnDParent : 79C93563
+		/// @DnDArgument : "expr" "15"
+		/// @DnDArgument : "var" "aparicion"
+		aparicion = 15;
+	
+		/// @DnDAction : YoYo Games.Instance Variables.If_Score
+		/// @DnDVersion : 1
+		/// @DnDHash : 0F8442EB
+		/// @DnDParent : 79C93563
+		/// @DnDArgument : "value" "25"
+		if(!variable_instance_exists(id, "__dnd_score")) __dnd_score = 0;
+		if(__dnd_score == 25)
+		{
+			/// @DnDAction : YoYo Games.Common.Variable
+			/// @DnDVersion : 1
+			/// @DnDHash : 3546FEDC
+			/// @DnDParent : 0F8442EB
+			/// @DnDArgument : "expr" "40"
+			/// @DnDArgument : "var" "aparicion "
+			aparicion  = 40;
+		}
+	}
+}
