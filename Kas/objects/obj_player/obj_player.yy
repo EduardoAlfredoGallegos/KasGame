@@ -203,6 +203,16 @@
             "enumb": 0,
             "eventtype": 4,
             "m_owner": "7090cb2e-a847-4588-9173-46c28199c48b"
+        },
+        {
+            "id": "ad424e01-c1cf-4848-b8e4-49815ea37c63",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": true,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 5,
+            "eventtype": 2,
+            "m_owner": "7090cb2e-a847-4588-9173-46c28199c48b"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -290,6 +300,20 @@
             "resourceFilter": 1023,
             "value": "False",
             "varName": "invencible",
+            "varType": 3
+        },
+        {
+            "id": "ee988146-b197-4d51-870f-7d66bba771fc",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "False",
+            "varName": "invencible_debuff",
             "varType": 3
         }
     ],

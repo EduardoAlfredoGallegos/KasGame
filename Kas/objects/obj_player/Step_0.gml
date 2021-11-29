@@ -8,13 +8,37 @@
 var l05A03C6E_0 = instance_place(x + 0, y + 0, obj_retarder);
 if ((l05A03C6E_0 > 0))
 {
-	/// @DnDAction : YoYo Games.Common.Variable
+	/// @DnDAction : YoYo Games.Common.If_Variable
 	/// @DnDVersion : 1
-	/// @DnDHash : 73F64700
+	/// @DnDHash : 748BAD8A
 	/// @DnDParent : 05A03C6E
-	/// @DnDArgument : "expr" "4"
-	/// @DnDArgument : "var" "player_speed"
-	player_speed = 4;
+	/// @DnDArgument : "var" "invencible_debuff"
+	/// @DnDArgument : "value" "false"
+	if(invencible_debuff == false)
+	{
+		/// @DnDAction : YoYo Games.Common.Variable
+		/// @DnDVersion : 1
+		/// @DnDHash : 60EA0439
+		/// @DnDParent : 748BAD8A
+		/// @DnDArgument : "expr" "4"
+		/// @DnDArgument : "var" "player_speed"
+		player_speed = 4;
+	}
+
+	/// @DnDAction : YoYo Games.Common.Else
+	/// @DnDVersion : 1
+	/// @DnDHash : 3081CB62
+	/// @DnDParent : 05A03C6E
+	else
+	{
+		/// @DnDAction : YoYo Games.Common.Variable
+		/// @DnDVersion : 1
+		/// @DnDHash : 70055621
+		/// @DnDParent : 3081CB62
+		/// @DnDArgument : "expr" "2"
+		/// @DnDArgument : "var" "player_speed"
+		player_speed = 2;
+	}
 }
 
 /// @DnDAction : YoYo Games.Common.Else
@@ -22,11 +46,35 @@ if ((l05A03C6E_0 > 0))
 /// @DnDHash : 403C4EA1
 else
 {
-	/// @DnDAction : YoYo Games.Common.Variable
+	/// @DnDAction : YoYo Games.Common.If_Variable
 	/// @DnDVersion : 1
-	/// @DnDHash : 4EFFA88B
+	/// @DnDHash : 2033D00A
 	/// @DnDParent : 403C4EA1
-	/// @DnDArgument : "expr" "10"
-	/// @DnDArgument : "var" "player_speed"
-	player_speed = 10;
+	/// @DnDArgument : "var" "invencible_debuff"
+	/// @DnDArgument : "value" "false"
+	if(invencible_debuff == false)
+	{
+		/// @DnDAction : YoYo Games.Common.Variable
+		/// @DnDVersion : 1
+		/// @DnDHash : 4EFFA88B
+		/// @DnDParent : 2033D00A
+		/// @DnDArgument : "expr" "10"
+		/// @DnDArgument : "var" "player_speed"
+		player_speed = 10;
+	}
+
+	/// @DnDAction : YoYo Games.Common.Else
+	/// @DnDVersion : 1
+	/// @DnDHash : 2D1A5330
+	/// @DnDParent : 403C4EA1
+	else
+	{
+		/// @DnDAction : YoYo Games.Common.Variable
+		/// @DnDVersion : 1
+		/// @DnDHash : 718FCF8A
+		/// @DnDParent : 2D1A5330
+		/// @DnDArgument : "expr" "6"
+		/// @DnDArgument : "var" "player_speed"
+		player_speed = 6;
+	}
 }
