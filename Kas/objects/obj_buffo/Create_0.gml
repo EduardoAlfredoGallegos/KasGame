@@ -8,8 +8,7 @@ event_inherited();
 /// @DnDHash : 3B914F5C
 /// @DnDArgument : "var" "enealea"
 /// @DnDArgument : "type" "1"
-/// @DnDArgument : "max" "0"
-enealea = floor(random_range(0, 0 + 1));
+enealea = floor(random_range(0, 1 + 1));
 
 /// @DnDAction : YoYo Games.Random.Get_Random_Number
 /// @DnDVersion : 1
@@ -53,12 +52,13 @@ if(enealea == 0)
 /// @DnDHash : 1102AB06
 else
 {
-	/// @DnDAction : YoYo Games.Instances.Set_Sprite
+	/// @DnDAction : YoYo Games.Instances.Create_Instance
 	/// @DnDVersion : 1
-	/// @DnDHash : 66091187
+	/// @DnDHash : 73D338A0
 	/// @DnDParent : 1102AB06
-	/// @DnDArgument : "spriteind" "spr_invencible"
-	/// @DnDSaveInfo : "spriteind" "c795d2c6-e1a1-4bed-934a-7007158fdbc1"
-	sprite_index = spr_invencible;
-	image_index = 0;
+	/// @DnDArgument : "xpos" "xx"
+	/// @DnDArgument : "ypos" "yy"
+	/// @DnDArgument : "objectid" "obj_inven"
+	/// @DnDSaveInfo : "objectid" "abbf2a50-321f-4016-88d5-6e1bfaf6bc81"
+	instance_create_layer(xx, yy, "Instances", obj_inven);
 }

@@ -10,7 +10,7 @@ if(no_slash == true)
 	/// @DnDHash : 543B1F76
 	/// @DnDParent : 35470476
 	/// @DnDArgument : "spriteind" "spr_player_ataque"
-	/// @DnDSaveInfo : "spriteind" "338a54db-d3d1-47c2-a439-38a9e71d33b0"
+	/// @DnDSaveInfo : "spriteind" "1969c929-69ac-40df-a0e6-c63094bba7dc"
 	sprite_index = spr_player_ataque;
 	image_index = 0;
 
