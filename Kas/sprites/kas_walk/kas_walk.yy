@@ -2,7 +2,7 @@
     "id": "61c9b457-1639-4f45-acda-57660ccd025e",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "kas_derecha",
+    "name": "kas_walk",
     "For3D": false,
     "HTile": false,
     "VTile": false,

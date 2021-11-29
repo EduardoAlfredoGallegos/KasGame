@@ -226,7 +226,7 @@
             "Key": "61c9b457-1639-4f45-acda-57660ccd025e",
             "Value": {
                 "id": "d5c6e8c3-e4eb-49d4-9240-ab9bafbccf1c",
-                "resourcePath": "sprites\\kas_derecha\\kas_derecha.yy",
+                "resourcePath": "sprites\\kas_walk\\kas_walk.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -539,14 +539,6 @@
             "Value": {
                 "id": "3df9cf16-a35e-42ee-a126-002193766be9",
                 "resourcePath": "sprites\\spr_blocks\\spr_blocks.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "ffbb9aa9-235c-4ade-9e4f-ec68efc43d3b",
-            "Value": {
-                "id": "5531abfe-f497-4320-8bf4-911f85ee0210",
-                "resourcePath": "sprites\\kas_izquierda\\kas_izquierda.yy",
                 "resourceType": "GMSprite"
             }
         }
