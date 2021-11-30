@@ -223,6 +223,14 @@
             }
         },
         {
+            "Key": "59605c37-73ea-4c54-9a68-408fadf4f7ae",
+            "Value": {
+                "id": "6fd5658f-e332-4c92-9693-bda9a9ef8ebe",
+                "resourcePath": "sprites\\spr_player_ataque_berserker\\spr_player_ataque_berserker.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "61c9b457-1639-4f45-acda-57660ccd025e",
             "Value": {
                 "id": "d5c6e8c3-e4eb-49d4-9240-ab9bafbccf1c",
@@ -519,6 +527,14 @@
             }
         },
         {
+            "Key": "f0ea4588-8f8c-42b1-98bf-8bb4bf8676b3",
+            "Value": {
+                "id": "ac292c88-0624-4371-bfe7-573f7ad88ced",
+                "resourcePath": "sprites\\kas_walk_berserker\\kas_walk_berserker.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "f1807d0a-a512-44d8-a1db-ff07e7af44c7",
             "Value": {
                 "id": "c148c2b6-217c-400a-9711-67f3c8287666",
@@ -532,6 +548,14 @@
                 "id": "6f879fb0-7cc1-4f65-b9f5-60bc67d0dd49",
                 "resourcePath": "options\\mac\\options_mac.yy",
                 "resourceType": "GMMacOptions"
+            }
+        },
+        {
+            "Key": "f5544ec6-ba58-4051-96e0-0caba477f53c",
+            "Value": {
+                "id": "4c1f9a1c-c3bd-40ae-b0d2-b3b710851beb",
+                "resourcePath": "sprites\\spr_player_berserker\\spr_player_berserker.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
