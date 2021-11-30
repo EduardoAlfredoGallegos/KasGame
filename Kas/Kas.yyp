@@ -375,6 +375,14 @@
             }
         },
         {
+            "Key": "abfd94f0-de9d-4e97-82c8-22d1fab6b9de",
+            "Value": {
+                "id": "7c8685c3-b789-4112-911a-35b35729e27b",
+                "resourcePath": "sprites\\spr_fondo\\spr_fondo.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "aff07cf9-7412-4519-9e1e-7bb169b55493",
             "Value": {
                 "id": "c72a1f0f-f932-4029-9a2b-f55b527f9b0c",
