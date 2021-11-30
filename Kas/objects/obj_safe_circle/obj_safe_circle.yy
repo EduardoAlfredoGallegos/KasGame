@@ -1,8 +1,8 @@
 {
-    "id": "aff07cf9-7412-4519-9e1e-7bb169b55493",
+    "id": "45cbb698-ffc5-42d2-8498-d4ec8a5de02e",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_retarder",
+    "name": "obj_safe_circle",
     "eventList": [
         
     ],
@@ -23,7 +23,7 @@
     "physicsShapePoints": null,
     "physicsStartAwake": true,
     "properties": null,
-    "solid": false,
-    "spriteId": "8686b59a-0207-478c-b52d-18ba60a1098c",
+    "solid": true,
+    "spriteId": "f8bb6eb5-3a01-42bb-bb60-567b6c1aae82",
     "visible": true
 }

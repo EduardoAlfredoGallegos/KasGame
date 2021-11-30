@@ -213,6 +213,36 @@
             "enumb": 5,
             "eventtype": 2,
             "m_owner": "7090cb2e-a847-4588-9173-46c28199c48b"
+        },
+        {
+            "id": "a4ca460b-1192-40b3-a564-ca6c334381a9",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": true,
+            "collisionObjectId": "f71cd74e-4eda-4072-b3d3-87009d75b186",
+            "enumb": 0,
+            "eventtype": 4,
+            "m_owner": "7090cb2e-a847-4588-9173-46c28199c48b"
+        },
+        {
+            "id": "d5ce731d-acb3-458f-9dae-7e6544d86a14",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": true,
+            "collisionObjectId": "742176fe-650a-4ae6-8492-1baef4f010a4",
+            "enumb": 0,
+            "eventtype": 4,
+            "m_owner": "7090cb2e-a847-4588-9173-46c28199c48b"
+        },
+        {
+            "id": "14a4c348-4aec-423b-8e06-40c0f839c0b1",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": true,
+            "collisionObjectId": "c706104e-ec3c-441b-8fb0-17dd8ae890b1",
+            "enumb": 0,
+            "eventtype": 4,
+            "m_owner": "7090cb2e-a847-4588-9173-46c28199c48b"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -242,7 +272,7 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "True",
+            "value": "False",
             "varName": "no_slash",
             "varType": 3
         },
@@ -314,6 +344,20 @@
             "resourceFilter": 1023,
             "value": "False",
             "varName": "invencible_debuff",
+            "varType": 3
+        },
+        {
+            "id": "16c5c2d7-1f04-4cd3-99b8-3fff133ca339",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "False",
+            "varName": "safe",
             "varType": 3
         }
     ],

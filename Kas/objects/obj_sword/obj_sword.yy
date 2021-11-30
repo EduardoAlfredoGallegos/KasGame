@@ -1,8 +1,8 @@
 {
-    "id": "aff07cf9-7412-4519-9e1e-7bb169b55493",
+    "id": "f71cd74e-4eda-4072-b3d3-87009d75b186",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_retarder",
+    "name": "obj_sword",
     "eventList": [
         
     ],
@@ -24,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "8686b59a-0207-478c-b52d-18ba60a1098c",
+    "spriteId": "16e7fdbf-cf5e-47be-82f3-625b1e11e9c1",
     "visible": true
 }
