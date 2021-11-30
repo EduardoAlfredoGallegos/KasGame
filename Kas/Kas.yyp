@@ -71,6 +71,14 @@
             }
         },
         {
+            "Key": "16e7fdbf-cf5e-47be-82f3-625b1e11e9c1",
+            "Value": {
+                "id": "5496c697-4479-406f-9938-ca766442c18d",
+                "resourcePath": "sprites\\spr_sword\\spr_sword.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "1969c929-69ac-40df-a0e6-c63094bba7dc",
             "Value": {
                 "id": "d206ce17-ff99-4bb1-84f5-9b6d9f0202ad",
@@ -191,6 +199,14 @@
             }
         },
         {
+            "Key": "45cbb698-ffc5-42d2-8498-d4ec8a5de02e",
+            "Value": {
+                "id": "c1ac5292-a5ac-40c3-b06b-80eaeed02845",
+                "resourcePath": "objects\\obj_safe_circle\\obj_safe_circle.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "4b4d63e3-c107-409f-9a6c-5d141af5fd53",
             "Value": {
                 "id": "2f3fb4dc-15ac-409a-b5e6-a8eace4c21b5",
@@ -268,6 +284,14 @@
                 "id": "8b8940cd-2bda-4726-9ccb-e9e3893acf6c",
                 "resourcePath": "objects\\obj_rock\\obj_rock.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "74fa4765-970f-4302-b22e-f2baefcd9b7b",
+            "Value": {
+                "id": "e4470e90-fb2d-45bf-92ae-f80174f89c11",
+                "resourcePath": "sprites\\spr_lodo\\spr_lodo.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -607,11 +631,27 @@
             }
         },
         {
+            "Key": "f71cd74e-4eda-4072-b3d3-87009d75b186",
+            "Value": {
+                "id": "78a6a3ce-18aa-4fc8-bc24-16273c69b4fb",
+                "resourcePath": "objects\\obj_sword\\obj_sword.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "f85efd3d-bcec-4ec0-8226-da808afda79d",
             "Value": {
                 "id": "1e991bd0-ef82-4462-bc7d-cbf7e11902d1",
                 "resourcePath": "options\\xboxone\\options_xboxone.yy",
                 "resourceType": "GMXBoxOneOptions"
+            }
+        },
+        {
+            "Key": "f8bb6eb5-3a01-42bb-bb60-567b6c1aae82",
+            "Value": {
+                "id": "27a6b88f-3298-47a7-bcf8-a5b2f54d0259",
+                "resourcePath": "sprites\\spr_safe_circle\\spr_safe_circle.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
