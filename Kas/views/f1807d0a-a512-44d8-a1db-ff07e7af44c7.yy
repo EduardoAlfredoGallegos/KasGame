@@ -16,6 +16,7 @@
         "8686b59a-0207-478c-b52d-18ba60a1098c",
         "bef25949-b33d-47af-98f8-417660eb658e",
         "f6bcb955-dcc6-4959-95ca-e730b23d8552",
+        "7d0bde29-3a66-443f-8812-ff36b2d6e29c",
         "b3dd6251-182a-4cd9-a32c-b39306bf6340",
         "e15d054d-d47f-4358-993a-f5c206779f98",
         "83b42145-d49e-4805-a212-86ce145569f1",
@@ -25,7 +26,12 @@
         "3ed5ebff-9aeb-4b45-b95d-3f4fd73ecbf4",
         "d55f0e0a-8a9b-402a-b0f1-de2666e18e7e",
         "abfd94f0-de9d-4e97-82c8-22d1fab6b9de",
+<<<<<<< Updated upstream
         "43af69e7-7862-4d0b-a6e1-73f40e48011f"
+=======
+        "16e7fdbf-cf5e-47be-82f3-625b1e11e9c1",
+        "ab2ec045-0ba9-42c9-afb0-ee470a83a8ad"
+>>>>>>> Stashed changes
     ],
     "filterType": "GMSprite",
     "folderName": "sprites",
