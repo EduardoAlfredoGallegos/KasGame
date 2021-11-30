@@ -71,14 +71,6 @@
             }
         },
         {
-            "Key": "16e7fdbf-cf5e-47be-82f3-625b1e11e9c1",
-            "Value": {
-                "id": "1c4fc344-2121-4aa0-a92a-c3ec794437b0",
-                "resourcePath": "sprites\\spr_sword\\spr_sword.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "1969c929-69ac-40df-a0e6-c63094bba7dc",
             "Value": {
                 "id": "d206ce17-ff99-4bb1-84f5-9b6d9f0202ad",
@@ -124,14 +116,6 @@
                 "id": "6e058858-0b6f-433b-b6dd-ff05f8b3d992",
                 "resourcePath": "views\\3236e6a2-5738-4396-97dd-a6ba4035fd0b.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "345dfeb0-dcfb-4f0a-a6d8-7c4350f60f13",
-            "Value": {
-                "id": "041e016f-0531-4131-b280-4d08bced702e",
-                "resourcePath": "objects\\obj_safe_circle\\obj_safe_circle.yy",
-                "resourceType": "GMObject"
             }
         },
         {
@@ -303,14 +287,6 @@
             }
         },
         {
-            "Key": "7d0bde29-3a66-443f-8812-ff36b2d6e29c",
-            "Value": {
-                "id": "dea0c8da-d1f0-4cc6-87aa-9d6f3c4283c5",
-                "resourcePath": "sprites\\spr_life_berserker\\spr_life_berserker.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "7e093a2a-e51c-4a1e-9a53-f9080d38730b",
             "Value": {
                 "id": "e0f1e3af-b964-42d9-b34d-01c0751fee9d",
@@ -420,14 +396,6 @@
                 "id": "edd2a2c0-f3ee-4adb-b90b-0bdf47766f2e",
                 "resourcePath": "views\\aaa251f0-47a0-471d-9861-7dcc08fa9e2d.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "ab2ec045-0ba9-42c9-afb0-ee470a83a8ad",
-            "Value": {
-                "id": "68f03aa1-cbf2-4b36-b468-f52d8cc8df43",
-                "resourcePath": "sprites\\spr_sfa_circle\\spr_sfa_circle.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
@@ -636,14 +604,6 @@
                 "id": "08cc8968-e395-4651-b236-c92d6873ee42",
                 "resourcePath": "sprites\\spr_life\\spr_life.yy",
                 "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "f71cd74e-4eda-4072-b3d3-87009d75b186",
-            "Value": {
-                "id": "8d987441-16b3-41ee-b605-491efbe9426e",
-                "resourcePath": "objects\\obj_sword\\obj_sword.yy",
-                "resourceType": "GMObject"
             }
         },
         {

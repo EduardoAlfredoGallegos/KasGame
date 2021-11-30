@@ -18,12 +18,7 @@
         "4028a7e0-6452-4693-8f30-95ea469dc6ec",
         "55457572-6c78-404b-8dc2-f4503c4df66a",
         "abbf2a50-321f-4016-88d5-6e1bfaf6bc81",
-<<<<<<< Updated upstream
         "3cd50eeb-3802-4f2a-b701-abc420e7a06f"
-=======
-        "f71cd74e-4eda-4072-b3d3-87009d75b186",
-        "345dfeb0-dcfb-4f0a-a6d8-7c4350f60f13"
->>>>>>> Stashed changes
     ],
     "filterType": "GMObject",
     "folderName": "Mundo",
