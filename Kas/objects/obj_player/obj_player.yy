@@ -145,13 +145,73 @@
             "m_owner": "7090cb2e-a847-4588-9173-46c28199c48b"
         },
         {
-            "id": "0c85da86-7b68-4bab-9b69-34f45758be2b",
+            "id": "37e11d56-c380-4cba-afcf-e09bf29f0e6b",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": true,
+            "collisionObjectId": "4028a7e0-6452-4693-8f30-95ea469dc6ec",
+            "enumb": 0,
+            "eventtype": 4,
+            "m_owner": "7090cb2e-a847-4588-9173-46c28199c48b"
+        },
+        {
+            "id": "f430c078-edf7-410b-a216-8b8a292185c0",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": true,
+            "collisionObjectId": "55457572-6c78-404b-8dc2-f4503c4df66a",
+            "enumb": 0,
+            "eventtype": 4,
+            "m_owner": "7090cb2e-a847-4588-9173-46c28199c48b"
+        },
+        {
+            "id": "90a17c55-bca8-4967-9147-2f7526617be3",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": true,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 3,
+            "eventtype": 2,
+            "m_owner": "7090cb2e-a847-4588-9173-46c28199c48b"
+        },
+        {
+            "id": "f5deb670-288c-49b3-a7a4-1f6dde9bc12c",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": true,
+            "collisionObjectId": "abbf2a50-321f-4016-88d5-6e1bfaf6bc81",
+            "enumb": 0,
+            "eventtype": 4,
+            "m_owner": "7090cb2e-a847-4588-9173-46c28199c48b"
+        },
+        {
+            "id": "480bba5d-e9de-4a65-a06c-c6bcc477b848",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": true,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 4,
+            "eventtype": 2,
+            "m_owner": "7090cb2e-a847-4588-9173-46c28199c48b"
+        },
+        {
+            "id": "a7dffd3f-e785-42e4-88be-a82f10a0cb44",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": true,
             "collisionObjectId": "d84f6ff7-edf0-46ea-97ac-4545315219fe",
             "enumb": 0,
             "eventtype": 4,
+            "m_owner": "7090cb2e-a847-4588-9173-46c28199c48b"
+        },
+        {
+            "id": "ad424e01-c1cf-4848-b8e4-49815ea37c63",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": true,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 5,
+            "eventtype": 2,
             "m_owner": "7090cb2e-a847-4588-9173-46c28199c48b"
         }
     ],
@@ -226,6 +286,34 @@
             "resourceFilter": 1023,
             "value": "False",
             "varName": "attack",
+            "varType": 3
+        },
+        {
+            "id": "55e0b1e0-5029-404e-9028-89c5e442b4da",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "False",
+            "varName": "invencible",
+            "varType": 3
+        },
+        {
+            "id": "ee988146-b197-4d51-870f-7d66bba771fc",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "False",
+            "varName": "invencible_debuff",
             "varType": 3
         }
     ],

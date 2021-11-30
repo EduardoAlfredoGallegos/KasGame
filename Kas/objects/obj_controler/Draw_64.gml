@@ -36,9 +36,8 @@ draw_set_font(font_SCORE);
 /// @DnDAction : YoYo Games.Drawing.Set_Color
 /// @DnDVersion : 1
 /// @DnDHash : 3544190D
-/// @DnDArgument : "color" "$FF0000B5"
-draw_set_colour($FF0000B5 & $ffffff);
-draw_set_alpha(($FF0000B5 >> 24) / $ff);
+draw_set_colour($FFFFFFFF & $ffffff);
+draw_set_alpha(($FFFFFFFF >> 24) / $ff);
 
 /// @DnDAction : YoYo Games.Drawing.Set_Alignment
 /// @DnDVersion : 1.1
