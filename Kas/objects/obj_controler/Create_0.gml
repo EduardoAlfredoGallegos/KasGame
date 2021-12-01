@@ -30,3 +30,18 @@ alarm_set(1, 500);
 /// @DnDArgument : "steps" "3000"
 /// @DnDArgument : "alarm" "2"
 alarm_set(2, 3000);
+
+/// @DnDAction : YoYo Games.Audio.Stop_Audio
+/// @DnDVersion : 1
+/// @DnDHash : 1BA9EB7A
+/// @DnDArgument : "soundid" "snd_background_menu"
+/// @DnDSaveInfo : "soundid" "4d4d2a83-da68-4241-8f5a-9d1a3c59da48"
+audio_stop_sound(snd_background_menu);
+
+/// @DnDAction : YoYo Games.Audio.Play_Audio
+/// @DnDVersion : 1
+/// @DnDHash : 75722D3D
+/// @DnDArgument : "soundid" "snd_background_mundo"
+/// @DnDArgument : "loop" "1"
+/// @DnDSaveInfo : "soundid" "ba0a02c8-7d7f-4983-b8a3-9f7e49371326"
+audio_play_sound(snd_background_mundo, 0, 1);

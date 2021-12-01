@@ -215,10 +215,7 @@
     ],
     "last": 0,
     "ranges": [
-        {
-            "x": 48,
-            "y": 57
-        }
+        
     ],
     "sampleText": "abcdef ABCDEF\\u000a0123456789 .,<>\"'&!?\\u000athe quick brown fox jumps over the lazy dog\\u000aTHE QUICK BROWN FOX JUMPS OVER THE LAZY DOG",
     "size": 24,

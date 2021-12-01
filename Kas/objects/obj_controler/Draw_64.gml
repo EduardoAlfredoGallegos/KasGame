@@ -15,17 +15,6 @@ for(var l6D64F9E9_2 = __dnd_lives; l6D64F9E9_2 > 0; --l6D64F9E9_2) {
 	l6D64F9E9_1 += l6D64F9E9_0;
 }
 
-/// @DnDAction : YoYo Games.Drawing.Draw_Instance_Score
-/// @DnDVersion : 1
-/// @DnDHash : 77A54EA0
-/// @DnDArgument : "x" "view_get_xport(0)+1280"
-/// @DnDArgument : "x_relative" "1"
-/// @DnDArgument : "y" "view_get_yport(0)+20"
-/// @DnDArgument : "y_relative" "1"
-/// @DnDArgument : "caption" ""
-if(!variable_instance_exists(id, "__dnd_score")) __dnd_score = 0;
-draw_text(x + view_get_xport(0)+1280, y + view_get_yport(0)+20, string(__dnd_score));
-
 /// @DnDAction : YoYo Games.Drawing.Set_Font
 /// @DnDVersion : 1
 /// @DnDHash : 117F1EA1
@@ -46,3 +35,14 @@ draw_set_alpha(($FFFFFFFF >> 24) / $ff);
 /// @DnDArgument : "valign" "fa_middle"
 draw_set_halign(fa_center);
 draw_set_valign(fa_middle);
+
+/// @DnDAction : YoYo Games.Drawing.Draw_Instance_Score
+/// @DnDVersion : 1
+/// @DnDHash : 77A54EA0
+/// @DnDArgument : "x" "view_get_xport(0)+1280"
+/// @DnDArgument : "x_relative" "1"
+/// @DnDArgument : "y" "view_get_yport(0)+20"
+/// @DnDArgument : "y_relative" "1"
+/// @DnDArgument : "caption" ""Enemigos eliminados: ""
+if(!variable_instance_exists(id, "__dnd_score")) __dnd_score = 0;
+draw_text(x + view_get_xport(0)+1280, y + view_get_yport(0)+20, string("Enemigos eliminados: ") + string(__dnd_score));
