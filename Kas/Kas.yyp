@@ -119,6 +119,14 @@
             }
         },
         {
+            "Key": "2bcb427e-cdaf-4d21-a625-88763b1a8df0",
+            "Value": {
+                "id": "b75bfccb-61a1-4208-a086-37bbeeaf6a3c",
+                "resourcePath": "views\\2bcb427e-cdaf-4d21-a625-88763b1a8df0.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "3236e6a2-5738-4396-97dd-a6ba4035fd0b",
             "Value": {
                 "id": "6e058858-0b6f-433b-b6dd-ff05f8b3d992",
@@ -188,6 +196,14 @@
                 "id": "557f86d1-907e-48b0-afa4-fe4d703b32e9",
                 "resourcePath": "tilesets\\tiles_fondo\\tiles_fondo.yy",
                 "resourceType": "GMTileSet"
+            }
+        },
+        {
+            "Key": "42287313-efe4-4661-9c43-ec1a83d1b7cd",
+            "Value": {
+                "id": "d6467b2f-5024-47e2-a668-c948c9e53cac",
+                "resourcePath": "sprites\\spr_button\\spr_button.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -316,6 +332,14 @@
                 "id": "e0f1e3af-b964-42d9-b34d-01c0751fee9d",
                 "resourcePath": "options\\windowsuap\\options_windowsuap.yy",
                 "resourceType": "GMWindowsUAPOptions"
+            }
+        },
+        {
+            "Key": "809cb694-77d7-45fa-af58-87c3fbeccff4",
+            "Value": {
+                "id": "5b0011cb-d0bd-461a-91b2-f3370e60c671",
+                "resourcePath": "rooms\\Menu\\Menu.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -599,6 +623,14 @@
             }
         },
         {
+            "Key": "e9907088-0664-4f57-8e47-6fd5b2ced62f",
+            "Value": {
+                "id": "e5a3d8b1-7874-4a29-b949-bffcc8b037bd",
+                "resourcePath": "fonts\\font_menu\\font_menu.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "ec6d94c4-5d0c-461d-9f8f-999c96378bff",
             "Value": {
                 "id": "eb9b616b-c095-4b29-9690-e9e40ab83f90",
@@ -620,6 +652,14 @@
                 "id": "c148c2b6-217c-400a-9711-67f3c8287666",
                 "resourcePath": "views\\f1807d0a-a512-44d8-a1db-ff07e7af44c7.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "f2450859-f93f-4656-8f1f-8db6bb00c436",
+            "Value": {
+                "id": "6c404efe-6396-458b-92d3-c615a6980df0",
+                "resourcePath": "objects\\obj_button\\obj_button.yy",
+                "resourceType": "GMObject"
             }
         },
         {
