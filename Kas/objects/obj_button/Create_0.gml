@@ -8,5 +8,6 @@ image_speed = 0;
 /// @DnDVersion : 1
 /// @DnDHash : 6298DBE6
 /// @DnDArgument : "soundid" "snd_background_menu"
+/// @DnDArgument : "loop" "1"
 /// @DnDSaveInfo : "soundid" "4d4d2a83-da68-4241-8f5a-9d1a3c59da48"
-audio_play_sound(snd_background_menu, 0, 0);
+audio_play_sound(snd_background_menu, 0, 1);
