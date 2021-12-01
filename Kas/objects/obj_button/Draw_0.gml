@@ -21,9 +21,8 @@ draw_set_valign(fa_middle);
 /// @DnDAction : YoYo Games.Drawing.Set_Color
 /// @DnDVersion : 1
 /// @DnDHash : 5973135A
-/// @DnDArgument : "color" "$FFFF3111"
-draw_set_colour($FFFF3111 & $ffffff);
-draw_set_alpha(($FFFF3111 >> 24) / $ff);
+draw_set_colour($FFFFFFFF & $ffffff);
+draw_set_alpha(($FFFFFFFF >> 24) / $ff);
 
 /// @DnDAction : YoYo Games.Drawing.Draw_Value
 /// @DnDVersion : 1
