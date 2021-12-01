@@ -20,9 +20,9 @@ if(enealea == 0)
 	/// @DnDVersion : 1
 	/// @DnDHash : 789B2C2D
 	/// @DnDParent : 09648C21
-	/// @DnDArgument : "spriteind" "dpr_fly"
-	/// @DnDSaveInfo : "spriteind" "83b42145-d49e-4805-a212-86ce145569f1"
-	sprite_index = dpr_fly;
+	/// @DnDArgument : "spriteind" "spr_ghost"
+	/// @DnDSaveInfo : "spriteind" "a67733ea-6860-48ab-b72f-a3383a05a336"
+	sprite_index = spr_ghost;
 	image_index = 0;
 }
 
@@ -35,8 +35,8 @@ else
 	/// @DnDVersion : 1
 	/// @DnDHash : 3641D572
 	/// @DnDParent : 1FE2F453
-	/// @DnDArgument : "spriteind" "spr_bat"
-	/// @DnDSaveInfo : "spriteind" "e15d054d-d47f-4358-993a-f5c206779f98"
-	sprite_index = spr_bat;
+	/// @DnDArgument : "spriteind" "spr_tentacles"
+	/// @DnDSaveInfo : "spriteind" "3ed5ebff-9aeb-4b45-b95d-3f4fd73ecbf4"
+	sprite_index = spr_tentacles;
 	image_index = 0;
 }
