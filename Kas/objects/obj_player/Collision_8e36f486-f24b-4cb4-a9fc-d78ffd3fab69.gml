@@ -26,7 +26,7 @@ if(use_portal == true)
 	/// @DnDVersion : 1
 	/// @DnDHash : 168DBB72
 	/// @DnDParent : 4582ECEF
-	/// @DnDArgument : "steps" "50"
+	/// @DnDArgument : "steps" "150"
 	/// @DnDArgument : "alarm" "1"
-	alarm_set(1, 50);
+	alarm_set(1, 150);
 }

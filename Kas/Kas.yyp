@@ -199,6 +199,14 @@
             }
         },
         {
+            "Key": "3ee4b8b6-d876-422c-b285-a40ceb7f5428",
+            "Value": {
+                "id": "0f225ad0-7b5c-4e41-abde-94b45498f752",
+                "resourcePath": "sounds\\snd_background_game_over\\snd_background_game_over.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "4028a7e0-6452-4693-8f30-95ea469dc6ec",
             "Value": {
                 "id": "2bf7a44e-ef8c-4924-9f47-08e473e32bd9",
