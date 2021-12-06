@@ -31,6 +31,13 @@ alarm_set(1, 500);
 /// @DnDArgument : "alarm" "2"
 alarm_set(2, 3000);
 
+/// @DnDAction : YoYo Games.Instances.Set_Alarm
+/// @DnDVersion : 1
+/// @DnDHash : 4D22A875
+/// @DnDArgument : "steps" "1000"
+/// @DnDArgument : "alarm" "3"
+alarm_set(3, 1000);
+
 /// @DnDAction : YoYo Games.Audio.Stop_Audio
 /// @DnDVersion : 1
 /// @DnDHash : 1BA9EB7A
